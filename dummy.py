@@ -7,4 +7,5 @@ b = input("your sweet second name:")
 
 c= a+b
 
-print("Here is your full name = ", c)
+print("your name = ", c)
+print("thanks")
