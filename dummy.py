@@ -8,5 +8,7 @@ b = input("your sweet second name:")
 
 c= a+b
 
+d = input("when is your birthday?")
+
 print("your name = ", c)
 print("thanks")
